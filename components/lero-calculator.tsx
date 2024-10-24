@@ -149,7 +149,7 @@ export function LeroCalculatorComponent() {
                 ))}
               </ul>
             ) : (
-              <p className="text-center text-gray-500">No strategies calculated yet. Enter your details and click "Calculate Strategies".</p>
+              <p className="text-center text-gray-500">No strategies calculated yet. Enter your details and click Calculate Strategies.</p>
             )}
           </CardContent>
           <CardFooter className="flex justify-center">
